@@ -1,0 +1,108 @@
+@font-face {
+    font-family: 'Spot';
+    src: url('fonte/GothamMedium.ttf') format('truetype'), url('fonte/GothamMedium_1.ttf') format('truetype'), url('fonte/GothamBold.ttf')
+    format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SpotBold';
+    src: url('fonte/GothamBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    font-family: 'Spot';
+    background-color:black;
+    font-weight: normal;
+
+}
+
+.cabecalho{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+    background-color: darkgoldenrod;
+    /* opcional  */
+    box-shadow: 5px 5px 15px;
+    color: goldenrod;
+}.cabecalho-logo{
+    position: absolute;
+    align-content: center;
+}.cabecalho-nav{
+    font-family: 'SpotBold';
+    text-align: center;
+}.cabecalho-nav-itens{
+    /* border: black;
+    border-style: solid;
+    border-radius: 5px;
+    background-color: black; */
+    text-decoration: underline;
+    color: rgb(0, 0, 0);
+}.cabecalho-text{
+    color: black;
+}
+
+.section1{
+    width: 100%;
+    height: 600px;
+    background-image: url('pexels-kateryna-babaieva-7516509_Easy-Resize.com.jpg');
+    background-size: cover;
+    background-position: center;
+    background-position-y: 1021px;
+    opacity: 50%;
+    /* opcional  */
+    box-shadow: 5px 5px 15px;
+    color: antiquewhite;
+}.section1-text{
+    position: absolute;
+    margin-left: 50%;
+    margin-top: 700px;
+    font-family: 'SpotBold';
+    
+}.section1-text1{
+    text-align: center;
+    width: 100%;
+    margin: 0px auto;
+    font-size: 80px;
+    letter-spacing: 5px;
+    top: 50%;
+    position: absolute;
+    margin-top: -180px;
+    color: beige;
+}.section1-text2{
+    color: beige;
+    text-align: center;
+    width: 100%;
+    margin: 0px auto;
+    font-size: 40px;
+    letter-spacing: 5px;
+    top: 50%;
+    position: absolute;
+    margin-top: -40px;
+}
+
+.section2{
+    margin-right: 40%;
+    margin-top: 100px;
+    position: relative;
+}.section2-text1{
+    color: beige;
+    font-size: 30px;
+}
+
+.box-shadow{
+    width: 100%;
+    height: 100px;
+    box-shadow: 5px 5px 15px;
+    color: antiquewhite;
+}
