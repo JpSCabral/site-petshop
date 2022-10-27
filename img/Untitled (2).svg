@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="500" height="500" viewBox="0 0 500 500" xml:space="preserve">
+<desc>Created with Fabric.js 4.6.0</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 250 250)" id="-4DRlcgm_-2OBEXmLYaBX"  >
+<path style="stroke: rgb(62,169,241); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-142.47, -142.47)" d="M 142.47312 0 C 221.11828 0 284.94624 63.82796 284.94624 142.47312 C 284.94624 221.11828 221.11828 284.94624 142.47312 284.94624 C 63.82795999999999 284.94624 0 221.11828 0 142.47312 C 0 63.82795999999999 63.82796 0 142.47312 0 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(2.21 0 0 1.71 208.87 250)" id="YREep6FbUyhNdlwIkbO-4"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-40, -40)" d="M 41.17 72.5 L 80 40 L 41.17 7.5 L 41.17 28.105 L 0 28.105 L 0 51.952 L 41.17 51.952 L 41.17 72.5 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1.5 0 0 1.49 249.81 249.22)" id="2VOySvxttfqJfuQThWcWK"  >
+<path style="stroke: rgb(255,255,255); stroke-width: 10; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(0, 0)" d="M 0 -87.63441 C 48.37419 -87.63441 87.63441 -48.3742 87.63441 0 C 87.63441 48.37419 48.3742 87.63441 0 87.63441 C -48.37419 87.63441 -87.63441 48.3742 -87.63441 0 C -87.63441 -48.37419 -48.3742 -87.63441 0 -87.63441 z" stroke-linecap="round" />
+</g>
+</svg>
